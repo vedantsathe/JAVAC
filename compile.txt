@@ -1,0 +1,9 @@
+step 1:first go in postgres
+create database using queries create database database name;eg
+create database testdb
+step2: write pogram
+to compile:
+step3: javac program name.java
+step4: to run jdbc program :
+java -cp drivermanager path:program name
+eg.java -cp /home/ubuntu/Downloads/postgresql-42.0.0.jar: Slip7_2
